@@ -1,0 +1,1 @@
+This is API which can connect with cassandra using scala. A csv file can be inserted into cassandra as row_id, row_values and time stamp.
